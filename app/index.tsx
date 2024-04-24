@@ -50,7 +50,7 @@ function HomeScreen() {
             </Text>
           </Link>
         </View>
-        <Link href={"/chat"}>
+        <Link href={"/chat/recording"}>
           <FontAwesome5 name="microphone" size={24} color="#61abff" />
         </Link>
         <Link href={"/chat"}>
